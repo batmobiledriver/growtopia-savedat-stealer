@@ -13,10 +13,9 @@
 
 # Required
  1. Open Terminal (Command prompt)
- 2. Download the "requests" module from pip
- 3. If you don't want the victim to download modules, you can convert them to exe from the terminal.
- 4. Exe conversion : Enter these commands in Terminal "pip install pyinstaller" "pyinstaller --onefile -noconsole savedat-stealer.py"
- 5. And it will be in the folder named "dist", you can send that scenario to the victim
+ 2. While in the project this heating unit in your Command Prompt:
+ 3. pip install -r requirements.txt (Type the command in terminal)
+ 4. Done!
 <br>
 
 # How to use
